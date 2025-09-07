@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Ali Nur Ardhi  
 
-<!--
-**Ardhi-id/Ardhi-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya mahasiswa Teknik Informatika.  
+💻 Saat ini saya sedang mengikuti praktikum **Mobile Programming**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Identitas
+- **Nama**  : Muhammad Ali Nur Ardhi  
+- **NIM**   : 230605110048  
+- **Kelas** : C (Mobile Programming)  
+
+---
+
+## 📚 Daftar Praktikum
+| No | Minggu | Praktikum | Topik                                     | Modul   | Laporan |
+|----|--------|-----------|-------------------------------------------|---------|---------|
+| 1  | 01     | 01        | Pengenalan Mobile Programming & Setup     | Modul 01| Laporan |
+| 2  | 01     | 01        | Widget Row dan Column                     | Modul 02| Laporan |
+| 3  | 02     | 02        | Pengaturan Layout Row dan Column di Flutter | Modul 03| Laporan |
+| 4  | 02     | 02        | Widget Flexible dan Expanded              | Modul 04| Laporan |
+
+---
+
+## 📂 Struktur Repo
