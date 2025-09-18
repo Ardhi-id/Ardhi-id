@@ -19,5 +19,7 @@ Saya mahasiswa Teknik Informatika.
 | 2  | 01     | 01        | Widget Row dan Column                     | Modul 02|[Laporan](https://drive.google.com/file/d/1Y9SNz-t-WxqgW1b-QzW8L8FHBLWwbG4z/view?usp=sharing)|
 | 3  | 02     | 02        | Pengaturan Layout Row dan Column di Fluttern              | Modul 03|[Laporan](https://drive.google.com/file/d/1hmA8-JkQ3atuyLZ2iJxJZu75ETbNLGtp/view?usp=sharing)|
 | 4  | 02     | 02        |    Pengaturan Layout Row dan Column di Flutter            | Modul 04|[Laporan](https://drive.google.com/file/d/1zY8Y9-QazZT57XHobx5Badl_WJGousv4/view?usp=sharing)|
+| 5  | 03     | 03        |              | Modul 05|[Laporan]()|
+| 6  | 03     | 03        |    Widget GridView, ListView, GridView.builder, dan ListView.builder           | Modul 06|[Laporan](https://drive.google.com/file/d/1l7zuUZEw9cUMIqeTjiczP4LYPDkIKZ4h/view?usp=sharing)|
 ---
 
