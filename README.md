@@ -22,5 +22,6 @@ Saya mahasiswa Teknik Informatika.
 | 5  | 03     | 03        |    Widget SizedBox, Spacer, dan Card          | Modul 05|[Laporan](https://drive.google.com/file/d/19bn6HbCgrqRFIpWjmJJlb98V37AXG512/view?usp=sharing)|
 | 6  | 03     | 03        |    Widget GridView, ListView, GridView.builder, dan ListView.builder           | Modul 06|[Laporan](https://drive.google.com/file/d/1l7zuUZEw9cUMIqeTjiczP4LYPDkIKZ4h/view?usp=sharing)|
 | 7  | 04     | 04        |    Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route           | Modul 07|[Laporan](https://drive.google.com/file/d/1eWnp-7dyjR4GdPoEqVwZCxE3BVIkvXM2/view?usp=sharing)|
+| 8  | 04     | 04        |    Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route          | Modul 06|[Laporan](https://drive.google.com/file/d/1l7zuUZEw9cUMIqeTjiczP4LYPDkIKZ4h/view?usp=sharing)|
 ---
 
