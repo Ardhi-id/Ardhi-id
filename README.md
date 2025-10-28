@@ -26,6 +26,6 @@ Saya mahasiswa Teknik Informatika.
 | 9  | 05     | 05        |    StatefulWidget         | Modul 0|[Laporan]()|
 | 10  | 06     | 06        |    Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter          | [Modul 09]()|[Laporan]()|
 | 11  | 07     | 07        |   tasbih dengan Getx         | [Modul 11]()|[Laporan]()|
-| 12  | 08     | 08        |   UTS        | [UTS](https://github.com/Ardhi-id/MelodifyUTS)|[Laporan]()|
+| 12  | 08     | 08        |   UTS        | [UTS](https://github.com/Ardhi-id/MelodifyUTS)|[Laporan](https://drive.google.com/file/d/1rMFJ3CJRye0bfAFftb9m2SfGPHjOBEPQ/view?usp=sharing)|
 ---
 
