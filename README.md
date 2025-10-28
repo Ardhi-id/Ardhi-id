@@ -24,5 +24,8 @@ Saya mahasiswa Teknik Informatika.
 | 7  | 04     | 04        |    Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route           | Modul 07|[Laporan](https://drive.google.com/file/d/1eWnp-7dyjR4GdPoEqVwZCxE3BVIkvXM2/view?usp=sharing)|
 | 8  | 04     | 04        |    Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route          | Modul 08|[Laporan]()|
 | 9  | 05     | 05        |    StatefulWidget         | Modul 0|[Laporan]()|
+| 10  | 06     | 06        |    Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter          | Modul 09()|[Laporan]()|
+| 11  | 07     | 07        |   tasbih dengan Getx         | Modul 11()|[Laporan]()|
+| 12  | 08     | 08        |   UTS        | UTS()|[Laporan]()|
 ---
 
