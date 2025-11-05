@@ -27,6 +27,6 @@ Saya mahasiswa Teknik Informatika.
 | 10  | 06     | 06        |    Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter          | [Modul 09]()|[Laporan]()|
 | 11  | 07     | 07        |   tasbih dengan Getx         | [Modul 11]()|[Laporan]()|
 | 12  | 08     | 08        |   UTS        | [UTS](https://github.com/Ardhi-id/MelodifyUTS)|[Laporan](https://drive.google.com/file/d/1rMFJ3CJRye0bfAFftb9m2SfGPHjOBEPQ/view?usp=sharing)|
-| 12  | 08     | 08        |   Akses Lokasi dengan GPS di Flutter       | [UTS]()|[Laporan]()|
+| 12  | 08     | 08        |   Akses Lokasi dengan GPS di Flutter       | [UTS]()|[Laporan](https://drive.google.com/file/d/1fYkOPf8VfMIobuAwROtZN43YC4deORwP/view?usp=sharing)|
 ---
 
