@@ -20,7 +20,7 @@ Saya mahasiswa Teknik Informatika.
 | 3  | 02     | 02        | Pengaturan Layout Row dan Column di Fluttern              | [Modul 03]()|[Laporan](https://drive.google.com/file/d/1hmA8-JkQ3atuyLZ2iJxJZu75ETbNLGtp/view?usp=sharing)|
 | 4  | 02     | 02        |    Pengaturan Layout Row dan Column di Flutter            | [Modul 04]()|[Laporan](https://drive.google.com/file/d/1zY8Y9-QazZT57XHobx5Badl_WJGousv4/view?usp=sharing)|
 | 5  | 03     | 03        |    Widget SizedBox, Spacer, dan Card          | [Modul 05]()|[Laporan](https://drive.google.com/file/d/19bn6HbCgrqRFIpWjmJJlb98V37AXG512/view?usp=sharing)|
-| 6  | 03     | 03        |    Widget GridView, ListView, GridView.builder, dan ListView.builder           | Modul 06|[Laporan](https://drive.google.com/file/d/1l7zuUZEw9cUMIqeTjiczP4LYPDkIKZ4h/view?usp=sharing)|
+| 6  | 03     | 03        |    Widget GridView, ListView, GridView.builder, dan ListView.builder           | [Modul 06] ()|[Laporan](https://drive.google.com/file/d/1l7zuUZEw9cUMIqeTjiczP4LYPDkIKZ4h/view?usp=sharing)|
 | 7  | 04     | 04        |    Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route           | Modul 07|[Laporan](https://drive.google.com/file/d/1eWnp-7dyjR4GdPoEqVwZCxE3BVIkvXM2/view?usp=sharing)|
 | 8  | 04     | 04        |    Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route          | Modul 08 ()|[Laporan]()|
 | 9  | 05     | 05        |    StatefulWidget         | [Modul 09]()|[Laporan]()|
