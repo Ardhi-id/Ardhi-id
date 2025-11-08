@@ -22,9 +22,9 @@ Saya mahasiswa Teknik Informatika.
 | 5  | 03     | 03        |    Widget SizedBox, Spacer, dan Card          | [Modul 05]()|[Laporan](https://drive.google.com/file/d/19bn6HbCgrqRFIpWjmJJlb98V37AXG512/view?usp=sharing)|
 | 6  | 03     | 03        |    Widget GridView, ListView, GridView.builder, dan ListView.builder           | Modul 06|[Laporan](https://drive.google.com/file/d/1l7zuUZEw9cUMIqeTjiczP4LYPDkIKZ4h/view?usp=sharing)|
 | 7  | 04     | 04        |    Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route           | Modul 07|[Laporan](https://drive.google.com/file/d/1eWnp-7dyjR4GdPoEqVwZCxE3BVIkvXM2/view?usp=sharing)|
-| 8  | 04     | 04        |    Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route          | Modul 08|[Laporan]()|
-| 9  | 05     | 05        |    StatefulWidget         | Modul 0|[Laporan]()|
-| 10  | 06     | 06        |    Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter          | [Modul 09]()|[Laporan]()|
+| 8  | 04     | 04        |    Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route          | Modul 08 ()|[Laporan]()|
+| 9  | 05     | 05        |    StatefulWidget         | [Modul 09]()|[Laporan]()|
+| 10  | 06     | 06        |    Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter          | [Modul 10]()|[Laporan]()|
 | 11  | 07     | 07        |   tasbih dengan Getx         | [Modul 11]()|[Laporan]()|
 | 12  | 08     | 08        |   UTS        | [UTS](https://github.com/Ardhi-id/MelodifyUTS)|[Laporan](https://drive.google.com/file/d/1rMFJ3CJRye0bfAFftb9m2SfGPHjOBEPQ/view?usp=sharing)|
 | 13  | 08     | 08        |   Akses Lokasi dengan GPS di Flutter       | [Modul 12]()|[Laporan](https://drive.google.com/file/d/1fYkOPf8VfMIobuAwROtZN43YC4deORwP/view?usp=sharing)|
