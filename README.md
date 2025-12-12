@@ -29,6 +29,6 @@ Saya mahasiswa Teknik Informatika.
 | 12 | 08     | 08        | UTS                                                                         | [UTS](https://github.com/Ardhi-id/MelodifyUTS)                 |[Laporan](https://drive.google.com/file/d/1rMFJ3CJRye0bfAFftb9m2SfGPHjOBEPQ/view?usp=sharing)|
 | 13 | 09     | 09        | Akses Lokasi dengan GPS di Flutter                                          | [Modul 12](https://github.com/Ardhi-id/Modul12)|[Laporan](https://drive.google.com/file/d/1fYkOPf8VfMIobuAwROtZN43YC4deORwP/view?usp=sharing)|
 | 13 | 09     | 09        | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API      | [Modul 13](https://github.com/Ardhi-id/Modul13)|[Laporan](https://drive.google.com/file/d/10739RZjKzqns8VHaLWa1PJcvkDzhiMEv/view?usp=sharing)|
-| 14 | 16     | 16        | UAS                                                                         | [CODE](https://github.com/Ardhi-id/MelodifyUAS)|[Laporan](https://drive.google.com/file/d/1Xw2W-smP_kH90UEJe-rSPMk-1nf3YFDc/view?usp=sharing)|
+| 14 | 16     | 16        | UAS                                                                         | [CODE](https://github.com/Ardhi-id/MelodifyUAS)|[Laporan](https://drive.google.com/file/d/1UK4-vmqLwfLB5zX5UP1Qx0S_wtufAesy/view?usp=sharing)|
 
 ---
